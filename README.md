@@ -49,12 +49,5 @@ Minha caixa de ferramentas técnica para desenvolvimento ponta a ponta:
 
 Estou sempre aberto a discutir novas tecnologias, arquitetura de software e oportunidades de desenvolvimento Fullstack ou Mobile.
 
-* [**LinkedIn**](https://www.linkedin.com/in/oc-mateus)
+* [**LinkedIn**](https://www.linkedin.com/in/mateus-c-502a84346)
 * **E-mail:** mateusnegocios.com@gmail.com
-
-<div align="center">
-  <sub>Visitas ao perfil:</sub><br>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=oc-mateus&icon=0&color=0" />
-  </a>
-</div>
