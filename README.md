@@ -44,7 +44,7 @@ Minha caixa de ferramentas técnica, focada em desenvolvimento moderno:
 
 Estou sempre aberto a discutir novas tecnologias, arquitetura de software e oportunidades de desenvolvimento.
 
-* [**LinkedIn**](https://www.linkedin.com/in/mateus-c-502a84346)
+* [**LinkedIn**](https://www.linkedin.com/in/oc-mateus)
 * **E-mail:** mateusnegocios.com@gmail.com
 
 <div align="center">
