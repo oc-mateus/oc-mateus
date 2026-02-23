@@ -1,7 +1,7 @@
 # Olá, eu sou o Mateus! 👋
 ## Fullstack & Mobile Developer
 
-Sou um desenvolvedor de software focado na criação de ecossistemas digitais completos. Atuo tanto no **Desenvolvimento Web Fullstack** (com forte ênfase em **React.js**) quanto na engenharia de **Aplicações Móveis Cross-Platform**.
+Sou um desenvolvedor de software focado na criação de ecossistemas digitais completos. Atuo tanto no **Desenvolvimento Web Fullstack** quanto na engenharia de **Aplicações Móveis Cross-Platform**.
 
 Atualmente, projeto soluções que integram interfaces modernas e responsivas com backends robustos, navegando com fluidez entre o ecossistema **.NET (MAUI)**, **React Native** e aplicações web em **React**.
 
@@ -11,7 +11,7 @@ Atualmente, projeto soluções que integram interfaces modernas e responsivas co
 
 Minha caixa de ferramentas técnica para desenvolvimento ponta a ponta:
 
-#### 💻 Fullstack & Web (React.js)
+#### 💻 Fullstack & Web
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
